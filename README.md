@@ -51,6 +51,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Math
 |  |
 | ------- |
+| [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Simulation
 |  |
@@ -64,4 +65,8 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
