@@ -23,6 +23,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 ## Combinatorics
 |  |
 | ------- |
