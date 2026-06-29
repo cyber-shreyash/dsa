@@ -32,6 +32,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cyber-shreyash/dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/cyber-shreyash/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/cyber-shreyash/dsa/tree/master/3021-alice-and-bob-playing-flower-game) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/cyber-shreyash/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
 |  |
 | ------- |
