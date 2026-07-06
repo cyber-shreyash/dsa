@@ -32,6 +32,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cyber-shreyash/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/cyber-shreyash/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cyber-shreyash/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -116,6 +117,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Bit Manipulation
