@@ -138,6 +138,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0110-balanced-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -148,6 +149,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0110-balanced-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -166,5 +168,10 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0110-balanced-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
