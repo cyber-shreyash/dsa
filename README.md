@@ -140,6 +140,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/cyber-shreyash/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/cyber-shreyash/dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -152,6 +153,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/cyber-shreyash/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/cyber-shreyash/dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -173,6 +175,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/cyber-shreyash/dsa/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/cyber-shreyash/dsa/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -185,6 +188,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
