@@ -99,6 +99,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/cyber-shreyash/dsa/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/cyber-shreyash/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/cyber-shreyash/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/cyber-shreyash/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Simulation
@@ -118,6 +119,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/cyber-shreyash/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
 | ------- |
