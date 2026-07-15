@@ -47,6 +47,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cyber-shreyash/dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -137,6 +138,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Sorting
 |  |
 | ------- |
@@ -147,6 +149,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Bit Manipulation
 |  |
 | ------- |
