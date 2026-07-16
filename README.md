@@ -34,6 +34,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cyber-shreyash/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -57,6 +58,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
+| [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
 | [1331-rank-transform-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
@@ -88,6 +90,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Math
