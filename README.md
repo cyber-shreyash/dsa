@@ -111,6 +111,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0738-monotone-increasing-digits](https://github.com/cyber-shreyash/dsa/tree/master/0738-monotone-increasing-digits) |
+| [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
 | [0781-rabbits-in-forest](https://github.com/cyber-shreyash/dsa/tree/master/0781-rabbits-in-forest) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
@@ -241,6 +242,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
