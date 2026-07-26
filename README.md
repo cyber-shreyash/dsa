@@ -37,6 +37,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0781-rabbits-in-forest](https://github.com/cyber-shreyash/dsa/tree/master/0781-rabbits-in-forest) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
@@ -112,6 +113,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cyber-shreyash/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/cyber-shreyash/dsa/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
 | [0781-rabbits-in-forest](https://github.com/cyber-shreyash/dsa/tree/master/0781-rabbits-in-forest) |
@@ -169,6 +171,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1331-rank-transform-of-an-array) |
