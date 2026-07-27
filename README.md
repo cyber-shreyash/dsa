@@ -35,6 +35,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/cyber-shreyash/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cyber-shreyash/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
@@ -255,6 +256,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/cyber-shreyash/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
