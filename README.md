@@ -13,6 +13,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/cyber-shreyash/dsa/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
@@ -276,4 +277,8 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
