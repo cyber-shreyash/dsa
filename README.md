@@ -37,6 +37,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/cyber-shreyash/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cyber-shreyash/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
@@ -193,6 +194,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cyber-shreyash/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -292,4 +294,8 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/cyber-shreyash/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
