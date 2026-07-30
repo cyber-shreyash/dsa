@@ -22,6 +22,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cyber-shreyash/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/cyber-shreyash/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/cyber-shreyash/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
@@ -127,6 +128,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/cyber-shreyash/dsa/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cyber-shreyash/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -174,6 +176,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 ## Sorting
 |  |
