@@ -312,4 +312,8 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0040-combination-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/cyber-shreyash/dsa/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
