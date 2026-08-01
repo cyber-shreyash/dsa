@@ -300,6 +300,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/cyber-shreyash/dsa/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
 ## Counting Sort
 |  |
@@ -315,5 +316,6 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Linked List
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/cyber-shreyash/dsa/tree/master/0086-partition-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
