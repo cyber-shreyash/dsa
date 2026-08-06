@@ -329,6 +329,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0040-combination-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/cyber-shreyash/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cyber-shreyash/dsa/tree/master/0047-permutations-ii) |
+| [0077-combinations](https://github.com/cyber-shreyash/dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/cyber-shreyash/dsa/tree/master/0131-palindrome-partitioning) |
 ## Linked List
