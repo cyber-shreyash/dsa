@@ -47,6 +47,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0046-permutations](https://github.com/cyber-shreyash/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cyber-shreyash/dsa/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
+| [0216-combination-sum-iii](https://github.com/cyber-shreyash/dsa/tree/master/0216-combination-sum-iii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cyber-shreyash/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
@@ -332,6 +333,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0077-combinations](https://github.com/cyber-shreyash/dsa/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/cyber-shreyash/dsa/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/cyber-shreyash/dsa/tree/master/0216-combination-sum-iii) |
 ## Linked List
 |  |
 | ------- |
