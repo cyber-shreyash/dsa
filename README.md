@@ -100,6 +100,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/cyber-shreyash/dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/cyber-shreyash/dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [2034-stock-price-fluctuation](https://github.com/cyber-shreyash/dsa/tree/master/2034-stock-price-fluctuation) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cyber-shreyash/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -189,6 +190,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2034-stock-price-fluctuation](https://github.com/cyber-shreyash/dsa/tree/master/2034-stock-price-fluctuation) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cyber-shreyash/dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Greedy
 |  |
@@ -362,4 +364,16 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
+## Design
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/cyber-shreyash/dsa/tree/master/2034-stock-price-fluctuation) |
+## Data Stream
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/cyber-shreyash/dsa/tree/master/2034-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2034-stock-price-fluctuation](https://github.com/cyber-shreyash/dsa/tree/master/2034-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
