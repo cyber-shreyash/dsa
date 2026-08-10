@@ -12,6 +12,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cyber-shreyash/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/cyber-shreyash/dsa/tree/master/0058-length-of-last-word) |
 | [0093-restore-ip-addresses](https://github.com/cyber-shreyash/dsa/tree/master/0093-restore-ip-addresses) |
@@ -33,6 +34,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/cyber-shreyash/dsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
@@ -335,6 +337,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cyber-shreyash/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/cyber-shreyash/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/cyber-shreyash/dsa/tree/master/0046-permutations) |
@@ -378,4 +381,8 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [2034-stock-price-fluctuation](https://github.com/cyber-shreyash/dsa/tree/master/2034-stock-price-fluctuation) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
