@@ -21,6 +21,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/cyber-shreyash/dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -95,6 +96,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/cyber-shreyash/dsa/tree/master/0398-random-pick-index) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
@@ -116,6 +118,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
@@ -243,6 +246,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cyber-shreyash/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
