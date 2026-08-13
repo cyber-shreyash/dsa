@@ -44,6 +44,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 ## Array
 |  |
 | ------- |
@@ -61,6 +62,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
 | [0624-maximum-distance-in-arrays](https://github.com/cyber-shreyash/dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 | [0781-rabbits-in-forest](https://github.com/cyber-shreyash/dsa/tree/master/0781-rabbits-in-forest) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
@@ -174,6 +176,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cyber-shreyash/dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
