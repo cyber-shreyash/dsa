@@ -54,6 +54,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0046-permutations](https://github.com/cyber-shreyash/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cyber-shreyash/dsa/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/cyber-shreyash/dsa/tree/master/0216-combination-sum-iii) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cyber-shreyash/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -120,6 +121,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -263,6 +265,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0102-binary-tree-level-order-traversal](https://github.com/cyber-shreyash/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cyber-shreyash/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0112-path-sum) |
@@ -316,6 +319,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0102-binary-tree-level-order-traversal](https://github.com/cyber-shreyash/dsa/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cyber-shreyash/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0112-path-sum) |
@@ -335,6 +339,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0033-search-in-rotated-sorted-array](https://github.com/cyber-shreyash/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0099-recover-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
