@@ -278,6 +278,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -299,6 +300,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -311,6 +313,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -332,6 +335,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
