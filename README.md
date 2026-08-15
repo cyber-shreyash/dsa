@@ -22,6 +22,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0443-string-compression](https://github.com/cyber-shreyash/dsa/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/cyber-shreyash/dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -386,6 +387,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0086-partition-list](https://github.com/cyber-shreyash/dsa/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
+| [0443-string-compression](https://github.com/cyber-shreyash/dsa/tree/master/0443-string-compression) |
 ## Counting Sort
 |  |
 | ------- |
