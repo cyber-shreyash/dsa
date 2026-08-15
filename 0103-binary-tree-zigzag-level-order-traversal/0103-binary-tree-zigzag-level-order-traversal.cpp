@@ -43,6 +43,7 @@ public:
         }
     }
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
+        b.clear();
         help(root);
         return b;
     }
