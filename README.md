@@ -87,6 +87,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cyber-shreyash/dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/cyber-shreyash/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
@@ -195,6 +196,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cyber-shreyash/dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/cyber-shreyash/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 ## Combinatorics
 |  |
