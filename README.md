@@ -48,6 +48,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 ## Array
 |  |
@@ -294,6 +295,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -317,6 +319,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -356,6 +359,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0113-path-sum-ii) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -429,6 +433,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/cyber-shreyash/dsa/tree/master/0086-partition-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0237-delete-node-in-a-linked-list) |
 ## Reservoir Sampling
 |  |
