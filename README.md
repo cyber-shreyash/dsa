@@ -183,6 +183,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/cyber-shreyash/dsa/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3099-harshad-number](https://github.com/cyber-shreyash/dsa/tree/master/3099-harshad-number) |
@@ -240,6 +241,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1386-cinema-seat-allocation](https://github.com/cyber-shreyash/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cyber-shreyash/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
