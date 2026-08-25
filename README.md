@@ -101,6 +101,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cyber-shreyash/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/cyber-shreyash/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/cyber-shreyash/dsa/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/cyber-shreyash/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -132,6 +133,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3238-find-the-number-of-winning-players](https://github.com/cyber-shreyash/dsa/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cyber-shreyash/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/cyber-shreyash/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/cyber-shreyash/dsa/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
