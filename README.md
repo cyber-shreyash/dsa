@@ -24,6 +24,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/cyber-shreyash/dsa/tree/master/0443-string-compression) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
@@ -58,6 +59,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 | [2104-sum-of-subarray-ranges](https://github.com/cyber-shreyash/dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Array
@@ -251,6 +253,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/cyber-shreyash/dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0738-monotone-increasing-digits](https://github.com/cyber-shreyash/dsa/tree/master/0738-monotone-increasing-digits) |
 | [0781-rabbits-in-forest](https://github.com/cyber-shreyash/dsa/tree/master/0781-rabbits-in-forest) |
@@ -504,6 +507,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/cyber-shreyash/dsa/tree/master/2104-sum-of-subarray-ranges) |
 ## Matrix
 |  |
