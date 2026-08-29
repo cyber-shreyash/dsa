@@ -53,6 +53,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/cyber-shreyash/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/cyber-shreyash/dsa/tree/master/0509-fibonacci-number) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
 ## Stack
 |  |
@@ -92,6 +93,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1331-rank-transform-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/cyber-shreyash/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/cyber-shreyash/dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/cyber-shreyash/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -304,6 +306,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/cyber-shreyash/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/cyber-shreyash/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cyber-shreyash/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/cyber-shreyash/dsa/tree/master/3090-maximum-length-substring-with-two-occurrences) |
