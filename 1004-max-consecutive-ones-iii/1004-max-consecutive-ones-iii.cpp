@@ -4,13 +4,16 @@ public:
         int n = nums.size();
         int l = 0;
         int maxi=0;
-        unordered_map<int, int> mp;
+        int zeros=0;
         for (int r = 0; r < n; r++) {
-            mp[nums[r]]++;
-            while(mp[0]>k){
-                mp[nums[l]]--;
-                if(mp[nums[l]]==0){
-                    mp.erase(nums[l]);
+            if(nums[r]==0){
+                zeros++;
+            }
+
+            while(zeros>k){
+                
+                if(nums[l]==0){
+                    zeros--;
                 }
                 l++;
             }
