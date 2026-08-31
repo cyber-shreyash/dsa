@@ -479,6 +479,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0086-partition-list](https://github.com/cyber-shreyash/dsa/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0237-delete-node-in-a-linked-list) |
+| [0707-design-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0707-design-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/cyber-shreyash/dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Reservoir Sampling
 |  |
@@ -500,6 +501,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Design
 |  |
 | ------- |
+| [0707-design-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0707-design-linked-list) |
 | [2034-stock-price-fluctuation](https://github.com/cyber-shreyash/dsa/tree/master/2034-stock-price-fluctuation) |
 ## Data Stream
 |  |
