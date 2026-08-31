@@ -13,7 +13,6 @@ public:
     vector<int> nodesBetweenCriticalPoints(ListNode* head) {
         vector<int> a;
         vector<int> b;
-        vector<pair<int, int>> p;
         while (head != NULL) {
             a.push_back(head->val);
             head = head->next;
@@ -31,7 +30,6 @@ public:
                 b.push_back(i);
             }
         }
-        sort(b.begin(),b.end());
         if (b.size() < 2) {
             return {-1, -1};
         }
