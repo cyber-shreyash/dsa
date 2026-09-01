@@ -16,6 +16,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cyber-shreyash/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/cyber-shreyash/dsa/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/cyber-shreyash/dsa/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/cyber-shreyash/dsa/tree/master/0093-restore-ip-addresses) |
@@ -198,6 +199,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/cyber-shreyash/dsa/tree/master/0062-unique-paths) |
 | [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/cyber-shreyash/dsa/tree/master/0398-random-pick-index) |
@@ -229,6 +231,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
