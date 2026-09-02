@@ -357,6 +357,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -379,6 +380,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -422,6 +424,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
