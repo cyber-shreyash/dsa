@@ -23,6 +23,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/cyber-shreyash/dsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
+| [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -79,6 +80,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
+| [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/cyber-shreyash/dsa/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/cyber-shreyash/dsa/tree/master/0216-combination-sum-iii) |
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
@@ -274,6 +276,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
 | [0624-maximum-distance-in-arrays](https://github.com/cyber-shreyash/dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0738-monotone-increasing-digits](https://github.com/cyber-shreyash/dsa/tree/master/0738-monotone-increasing-digits) |
@@ -294,6 +297,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/cyber-shreyash/dsa/tree/master/0047-permutations-ii) |
+| [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
