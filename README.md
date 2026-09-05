@@ -139,6 +139,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3875-construct-uniform-parity-array-i](https://github.com/cyber-shreyash/dsa/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/cyber-shreyash/dsa/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/cyber-shreyash/dsa/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/cyber-shreyash/dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -208,6 +209,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/cyber-shreyash/dsa/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/cyber-shreyash/dsa/tree/master/3904-smallest-stable-index-ii) |
 ## Math
 |  |
 | ------- |
