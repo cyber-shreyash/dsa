@@ -84,6 +84,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/cyber-shreyash/dsa/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/cyber-shreyash/dsa/tree/master/0216-combination-sum-iii) |
+| [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/cyber-shreyash/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0447-number-of-boomerangs](https://github.com/cyber-shreyash/dsa/tree/master/0447-number-of-boomerangs) |
@@ -277,6 +278,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -336,6 +338,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Sliding Window
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/cyber-shreyash/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -576,4 +579,16 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/cyber-shreyash/dsa/tree/master/0416-partition-equal-subset-sum) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
