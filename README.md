@@ -30,6 +30,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/cyber-shreyash/dsa/tree/master/0423-reconstruct-original-digits-from-english) |
 | [0443-string-compression](https://github.com/cyber-shreyash/dsa/tree/master/0443-string-compression) |
+| [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/cyber-shreyash/dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -94,6 +95,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
+| [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/cyber-shreyash/dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
@@ -226,6 +228,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/cyber-shreyash/dsa/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
+| [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [0738-monotone-increasing-digits](https://github.com/cyber-shreyash/dsa/tree/master/0738-monotone-increasing-digits) |
 | [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
@@ -313,6 +316,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
