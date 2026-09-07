@@ -38,6 +38,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/cyber-shreyash/dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cyber-shreyash/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1987-number-of-unique-good-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/1987-number-of-unique-good-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/cyber-shreyash/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -66,6 +67,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0746-min-cost-climbing-stairs](https://github.com/cyber-shreyash/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/cyber-shreyash/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1987-number-of-unique-good-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/1987-number-of-unique-good-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
 ## Stack
 |  |
