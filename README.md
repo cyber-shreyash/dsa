@@ -396,6 +396,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/cyber-shreyash/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -419,6 +420,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/cyber-shreyash/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -463,6 +465,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/cyber-shreyash/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
