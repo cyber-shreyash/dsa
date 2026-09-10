@@ -17,6 +17,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
+| [0049-group-anagrams](https://github.com/cyber-shreyash/dsa/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/cyber-shreyash/dsa/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/cyber-shreyash/dsa/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/cyber-shreyash/dsa/tree/master/0093-restore-ip-addresses) |
@@ -88,6 +89,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0040-combination-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/cyber-shreyash/dsa/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/cyber-shreyash/dsa/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/cyber-shreyash/dsa/tree/master/0049-group-anagrams) |
 | [0064-minimum-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -160,6 +162,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cyber-shreyash/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/cyber-shreyash/dsa/tree/master/0049-group-anagrams) |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
@@ -326,6 +329,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/cyber-shreyash/dsa/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/cyber-shreyash/dsa/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
