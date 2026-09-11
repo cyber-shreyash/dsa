@@ -147,6 +147,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3238-find-the-number-of-winning-players](https://github.com/cyber-shreyash/dsa/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cyber-shreyash/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/cyber-shreyash/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cyber-shreyash/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -189,6 +190,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3238-find-the-number-of-winning-players](https://github.com/cyber-shreyash/dsa/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cyber-shreyash/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/cyber-shreyash/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cyber-shreyash/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/cyber-shreyash/dsa/tree/master/3731-find-missing-elements) |
@@ -296,6 +298,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/cyber-shreyash/dsa/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/cyber-shreyash/dsa/tree/master/1922-count-good-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/cyber-shreyash/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -498,6 +501,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [1291-sequential-digits](https://github.com/cyber-shreyash/dsa/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cyber-shreyash/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/cyber-shreyash/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/cyber-shreyash/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Quickselect
