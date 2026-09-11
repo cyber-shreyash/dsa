@@ -57,6 +57,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0062-unique-paths](https://github.com/cyber-shreyash/dsa/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/cyber-shreyash/dsa/tree/master/0072-edit-distance) |
+| [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/cyber-shreyash/dsa/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
@@ -236,6 +237,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/cyber-shreyash/dsa/tree/master/0062-unique-paths) |
+| [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/cyber-shreyash/dsa/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/cyber-shreyash/dsa/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -378,6 +380,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/cyber-shreyash/dsa/tree/master/0100-same-tree) |
@@ -447,6 +450,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Binary Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/cyber-shreyash/dsa/tree/master/0100-same-tree) |
@@ -478,6 +482,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/cyber-shreyash/dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
