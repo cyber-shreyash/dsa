@@ -5,7 +5,7 @@ public:
 
         vector<vector<int>> dp(n + 1, vector<int>(amount + 1, 0));
 
-        dp[0][0] = 1;
+        dp[0][0] = 1;//valid way to make amount == 0
 
         for (int i = 1; i <= n; i++) {
             for (int j = 0; j <= amount; j++) {
