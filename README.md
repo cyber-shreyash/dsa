@@ -149,6 +149,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3238-find-the-number-of-winning-players](https://github.com/cyber-shreyash/dsa/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cyber-shreyash/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/cyber-shreyash/dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/cyber-shreyash/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cyber-shreyash/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -192,6 +193,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3238-find-the-number-of-winning-players](https://github.com/cyber-shreyash/dsa/tree/master/3238-find-the-number-of-winning-players) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/cyber-shreyash/dsa/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/cyber-shreyash/dsa/tree/master/3483-unique-3-digit-even-numbers) |
+| [3488-closest-equal-element-queries](https://github.com/cyber-shreyash/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cyber-shreyash/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/cyber-shreyash/dsa/tree/master/3731-find-missing-elements) |
@@ -492,6 +494,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/cyber-shreyash/dsa/tree/master/1004-max-consecutive-ones-iii) |
+| [3488-closest-equal-element-queries](https://github.com/cyber-shreyash/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
 |  |
