@@ -68,6 +68,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0416-partition-equal-subset-sum](https://github.com/cyber-shreyash/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/cyber-shreyash/dsa/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/cyber-shreyash/dsa/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/cyber-shreyash/dsa/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/cyber-shreyash/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/cyber-shreyash/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -107,6 +108,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/cyber-shreyash/dsa/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/cyber-shreyash/dsa/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/cyber-shreyash/dsa/tree/master/0518-coin-change-ii) |
 | [0523-continuous-subarray-sum](https://github.com/cyber-shreyash/dsa/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
 | [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
@@ -612,10 +614,12 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/cyber-shreyash/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/cyber-shreyash/dsa/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/cyber-shreyash/dsa/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/cyber-shreyash/dsa/tree/master/0518-coin-change-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
