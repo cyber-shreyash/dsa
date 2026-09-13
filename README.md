@@ -261,6 +261,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/cyber-shreyash/dsa/tree/master/3021-alice-and-bob-playing-flower-game) |
@@ -299,6 +300,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/cyber-shreyash/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -557,6 +559,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0707-design-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0707-design-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/cyber-shreyash/dsa/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Reservoir Sampling
 |  |
 | ------- |
