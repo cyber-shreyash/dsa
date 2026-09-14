@@ -102,6 +102,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/cyber-shreyash/dsa/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/cyber-shreyash/dsa/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/cyber-shreyash/dsa/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
@@ -246,6 +247,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/cyber-shreyash/dsa/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
+| [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/cyber-shreyash/dsa/tree/master/0223-rectangle-area) |
 | [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/cyber-shreyash/dsa/tree/master/0398-random-pick-index) |
@@ -302,6 +304,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -517,6 +520,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/cyber-shreyash/dsa/tree/master/1291-sequential-digits) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cyber-shreyash/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/cyber-shreyash/dsa/tree/master/3483-unique-3-digit-even-numbers) |
@@ -656,4 +660,16 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0223-rectangle-area](https://github.com/cyber-shreyash/dsa/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/cyber-shreyash/dsa/tree/master/0836-rectangle-overlap) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
