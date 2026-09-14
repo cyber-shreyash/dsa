@@ -244,6 +244,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/cyber-shreyash/dsa/tree/master/0062-unique-paths) |
 | [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
+| [0223-rectangle-area](https://github.com/cyber-shreyash/dsa/tree/master/0223-rectangle-area) |
 | [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/cyber-shreyash/dsa/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/cyber-shreyash/dsa/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -650,5 +651,6 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/cyber-shreyash/dsa/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/cyber-shreyash/dsa/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
