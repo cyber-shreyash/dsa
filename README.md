@@ -36,6 +36,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/cyber-shreyash/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1092-shortest-common-supersequence](https://github.com/cyber-shreyash/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
@@ -76,6 +77,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0583-delete-operation-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/cyber-shreyash/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/cyber-shreyash/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1092-shortest-common-supersequence](https://github.com/cyber-shreyash/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-number-of-unique-good-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/1987-number-of-unique-good-subsequences) |
@@ -656,6 +658,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0583-delete-operation-for-two-strings) |
+| [1092-shortest-common-supersequence](https://github.com/cyber-shreyash/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/1143-longest-common-subsequence) |
 ## Geometry
 |  |
