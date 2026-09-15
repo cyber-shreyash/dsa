@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lcs(string s,string p){
+    int lcs(string &s,string &p){
         int n = s.size();
         int m = p.size();
         vector<vector<int>>dp(n+1,vector<int>(m+1,0));
