@@ -47,6 +47,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1987-number-of-unique-good-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/1987-number-of-unique-good-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2785-sort-vowels-in-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/cyber-shreyash/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -348,6 +349,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cyber-shreyash/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/cyber-shreyash/dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/cyber-shreyash/dsa/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
@@ -548,6 +550,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0392-is-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/cyber-shreyash/dsa/tree/master/0443-string-compression) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Counting Sort
 |  |
 | ------- |
