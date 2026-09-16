@@ -28,6 +28,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
+| [0392-is-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0392-is-subsequence) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/cyber-shreyash/dsa/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -70,6 +71,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0213-house-robber-ii](https://github.com/cyber-shreyash/dsa/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/cyber-shreyash/dsa/tree/master/0377-combination-sum-iv) |
+| [0392-is-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/cyber-shreyash/dsa/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/cyber-shreyash/dsa/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/cyber-shreyash/dsa/tree/master/0509-fibonacci-number) |
@@ -543,6 +545,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0086-partition-list](https://github.com/cyber-shreyash/dsa/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/cyber-shreyash/dsa/tree/master/0443-string-compression) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Counting Sort
