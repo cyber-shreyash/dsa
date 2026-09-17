@@ -152,6 +152,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cyber-shreyash/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/cyber-shreyash/dsa/tree/master/2104-sum-of-subarray-ranges) |
+| [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/cyber-shreyash/dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
@@ -523,6 +524,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1004-max-consecutive-ones-iii](https://github.com/cyber-shreyash/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cyber-shreyash/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cyber-shreyash/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [3488-closest-equal-element-queries](https://github.com/cyber-shreyash/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
