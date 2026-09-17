@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int lcs(vector<int>& nums1, vector<int>& nums2) {
+    int maxUncrossedLines(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size();
         int m = nums2.size();
         vector<vector<int>> dp(n + 1, vector<int>(m + 1, 0));
@@ -14,10 +14,5 @@ public:
             }
         }
         return dp[n][m];
-    }
-    int maxUncrossedLines(vector<int>& nums1, vector<int>& nums2) {
-        int n = nums1.size();
-        int m = nums2.size();
-        return lcs(nums1, nums2);
     }
 };
