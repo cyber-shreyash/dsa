@@ -81,6 +81,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0583-delete-operation-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0583-delete-operation-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/cyber-shreyash/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/cyber-shreyash/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1035-uncrossed-lines](https://github.com/cyber-shreyash/dsa/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/cyber-shreyash/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -134,6 +135,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1004-max-consecutive-ones-iii](https://github.com/cyber-shreyash/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cyber-shreyash/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
+| [1035-uncrossed-lines](https://github.com/cyber-shreyash/dsa/tree/master/1035-uncrossed-lines) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/cyber-shreyash/dsa/tree/master/1386-cinema-seat-allocation) |
@@ -670,6 +672,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0583-delete-operation-for-two-strings) |
+| [1035-uncrossed-lines](https://github.com/cyber-shreyash/dsa/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/cyber-shreyash/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/1143-longest-common-subsequence) |
 ## Geometry
