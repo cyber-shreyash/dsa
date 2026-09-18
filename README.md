@@ -71,6 +71,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/cyber-shreyash/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cyber-shreyash/dsa/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/cyber-shreyash/dsa/tree/master/0377-combination-sum-iv) |
 | [0392-is-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0392-is-subsequence) |
@@ -118,6 +119,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0213-house-robber-ii](https://github.com/cyber-shreyash/dsa/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/cyber-shreyash/dsa/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
+| [0300-longest-increasing-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/cyber-shreyash/dsa/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/cyber-shreyash/dsa/tree/master/0416-partition-equal-subset-sum) |
@@ -520,6 +522,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0300-longest-increasing-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0300-longest-increasing-subsequence) |
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
@@ -697,4 +700,8 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
