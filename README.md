@@ -36,6 +36,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0516-longest-palindromic-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
 | [0583-delete-operation-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/cyber-shreyash/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1092-shortest-common-supersequence](https://github.com/cyber-shreyash/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/1143-longest-common-subsequence) |
@@ -79,6 +80,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0516-longest-palindromic-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/cyber-shreyash/dsa/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0746-min-cost-climbing-stairs](https://github.com/cyber-shreyash/dsa/tree/master/0746-min-cost-climbing-stairs) |
 | [0940-distinct-subsequences-ii](https://github.com/cyber-shreyash/dsa/tree/master/0940-distinct-subsequences-ii) |
 | [1035-uncrossed-lines](https://github.com/cyber-shreyash/dsa/tree/master/1035-uncrossed-lines) |
@@ -674,6 +676,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0583-delete-operation-for-two-strings) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1035-uncrossed-lines](https://github.com/cyber-shreyash/dsa/tree/master/1035-uncrossed-lines) |
 | [1092-shortest-common-supersequence](https://github.com/cyber-shreyash/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/1143-longest-common-subsequence) |
