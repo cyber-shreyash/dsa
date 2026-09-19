@@ -169,6 +169,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cyber-shreyash/dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/cyber-shreyash/dsa/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3115-maximum-prime-difference](https://github.com/cyber-shreyash/dsa/tree/master/3115-maximum-prime-difference) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3238-find-the-number-of-winning-players](https://github.com/cyber-shreyash/dsa/tree/master/3238-find-the-number-of-winning-players) |
@@ -291,6 +292,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/cyber-shreyash/dsa/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3099-harshad-number](https://github.com/cyber-shreyash/dsa/tree/master/3099-harshad-number) |
+| [3115-maximum-prime-difference](https://github.com/cyber-shreyash/dsa/tree/master/3115-maximum-prime-difference) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cyber-shreyash/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cyber-shreyash/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -327,6 +329,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3115-maximum-prime-difference](https://github.com/cyber-shreyash/dsa/tree/master/3115-maximum-prime-difference) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/cyber-shreyash/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Recursion
 |  |
@@ -694,6 +697,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
+| [3115-maximum-prime-difference](https://github.com/cyber-shreyash/dsa/tree/master/3115-maximum-prime-difference) |
 ## Sieve Theory
 |  |
 | ------- |
