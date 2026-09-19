@@ -281,6 +281,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
 | [0781-rabbits-in-forest](https://github.com/cyber-shreyash/dsa/tree/master/0781-rabbits-in-forest) |
 | [0836-rectangle-overlap](https://github.com/cyber-shreyash/dsa/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/cyber-shreyash/dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1922-count-good-numbers](https://github.com/cyber-shreyash/dsa/tree/master/1922-count-good-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
@@ -688,6 +689,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0223-rectangle-area](https://github.com/cyber-shreyash/dsa/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/cyber-shreyash/dsa/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/cyber-shreyash/dsa/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Primality Test
 |  |
 | ------- |
