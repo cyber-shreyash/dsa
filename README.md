@@ -44,6 +44,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/cyber-shreyash/dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/cyber-shreyash/dsa/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cyber-shreyash/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1987-number-of-unique-good-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/1987-number-of-unique-good-subsequences) |
@@ -416,6 +417,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/cyber-shreyash/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/cyber-shreyash/dsa/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/cyber-shreyash/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cyber-shreyash/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
