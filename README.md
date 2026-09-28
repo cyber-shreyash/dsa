@@ -293,6 +293,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2396-strictly-palindromic-number](https://github.com/cyber-shreyash/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -575,6 +576,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0392-is-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/cyber-shreyash/dsa/tree/master/0443-string-compression) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2396-strictly-palindromic-number](https://github.com/cyber-shreyash/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Counting Sort
 |  |
@@ -721,4 +723,8 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0300-longest-increasing-subsequence) |
+## Brainteaser
+|  |
+| ------- |
+| [2396-strictly-palindromic-number](https://github.com/cyber-shreyash/dsa/tree/master/2396-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
