@@ -107,6 +107,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/cyber-shreyash/dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cyber-shreyash/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/cyber-shreyash/dsa/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0040-combination-sum-ii) |
@@ -574,6 +575,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/cyber-shreyash/dsa/tree/master/0031-next-permutation) |
 | [0086-partition-list](https://github.com/cyber-shreyash/dsa/tree/master/0086-partition-list) |
 | [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0392-is-subsequence) |
