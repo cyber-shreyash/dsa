@@ -146,6 +146,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cyber-shreyash/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1035-uncrossed-lines](https://github.com/cyber-shreyash/dsa/tree/master/1035-uncrossed-lines) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cyber-shreyash/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/cyber-shreyash/dsa/tree/master/1386-cinema-seat-allocation) |
@@ -546,6 +547,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/cyber-shreyash/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cyber-shreyash/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cyber-shreyash/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cyber-shreyash/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/cyber-shreyash/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
