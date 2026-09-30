@@ -164,6 +164,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/cyber-shreyash/dsa/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cyber-shreyash/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cyber-shreyash/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/cyber-shreyash/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
@@ -373,6 +374,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1386-cinema-seat-allocation](https://github.com/cyber-shreyash/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cyber-shreyash/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cyber-shreyash/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/cyber-shreyash/dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -552,6 +554,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/cyber-shreyash/dsa/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/cyber-shreyash/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/cyber-shreyash/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
+| [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cyber-shreyash/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [3488-closest-equal-element-queries](https://github.com/cyber-shreyash/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
