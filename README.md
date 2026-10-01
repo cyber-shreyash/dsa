@@ -14,6 +14,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/cyber-shreyash/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cyber-shreyash/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
@@ -97,6 +98,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
@@ -654,6 +656,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Lifting
