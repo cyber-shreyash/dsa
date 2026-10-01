@@ -174,6 +174,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/cyber-shreyash/dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/cyber-shreyash/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/cyber-shreyash/dsa/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -560,6 +561,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/cyber-shreyash/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cyber-shreyash/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/cyber-shreyash/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3488-closest-equal-element-queries](https://github.com/cyber-shreyash/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
