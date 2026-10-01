@@ -25,6 +25,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0115-distinct-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/cyber-shreyash/dsa/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/cyber-shreyash/dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0242-valid-anagram](https://github.com/cyber-shreyash/dsa/tree/master/0242-valid-anagram) |
@@ -72,6 +73,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/cyber-shreyash/dsa/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/cyber-shreyash/dsa/tree/master/0132-palindrome-partitioning-ii) |
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0198-house-robber](https://github.com/cyber-shreyash/dsa/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/cyber-shreyash/dsa/tree/master/0213-house-robber-ii) |
