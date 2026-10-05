@@ -146,6 +146,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/cyber-shreyash/dsa/tree/master/0624-maximum-distance-in-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/cyber-shreyash/dsa/tree/master/0658-find-k-closest-elements) |
 | [0665-non-decreasing-array](https://github.com/cyber-shreyash/dsa/tree/master/0665-non-decreasing-array) |
 | [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/cyber-shreyash/dsa/tree/master/0746-min-cost-climbing-stairs) |
@@ -366,6 +367,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
+| [0658-find-k-closest-elements](https://github.com/cyber-shreyash/dsa/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
@@ -404,6 +406,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/cyber-shreyash/dsa/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0539-minimum-time-difference](https://github.com/cyber-shreyash/dsa/tree/master/0539-minimum-time-difference) |
 | [0628-maximum-product-of-three-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/cyber-shreyash/dsa/tree/master/0658-find-k-closest-elements) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -434,6 +437,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/cyber-shreyash/dsa/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0658-find-k-closest-elements](https://github.com/cyber-shreyash/dsa/tree/master/0658-find-k-closest-elements) |
 | [1004-max-consecutive-ones-iii](https://github.com/cyber-shreyash/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/cyber-shreyash/dsa/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/cyber-shreyash/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -555,6 +559,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0300-longest-increasing-subsequence) |
+| [0658-find-k-closest-elements](https://github.com/cyber-shreyash/dsa/tree/master/0658-find-k-closest-elements) |
 | [0700-search-in-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0754-reach-a-number](https://github.com/cyber-shreyash/dsa/tree/master/0754-reach-a-number) |
@@ -598,6 +603,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0125-valid-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/cyber-shreyash/dsa/tree/master/0443-string-compression) |
+| [0658-find-k-closest-elements](https://github.com/cyber-shreyash/dsa/tree/master/0658-find-k-closest-elements) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/cyber-shreyash/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
