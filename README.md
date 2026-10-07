@@ -165,6 +165,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/cyber-shreyash/dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1552-magnetic-force-between-two-balls](https://github.com/cyber-shreyash/dsa/tree/master/1552-magnetic-force-between-two-balls) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/cyber-shreyash/dsa/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/cyber-shreyash/dsa/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/cyber-shreyash/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
@@ -386,6 +387,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0781-rabbits-in-forest](https://github.com/cyber-shreyash/dsa/tree/master/0781-rabbits-in-forest) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1386-cinema-seat-allocation](https://github.com/cyber-shreyash/dsa/tree/master/1386-cinema-seat-allocation) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/cyber-shreyash/dsa/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cyber-shreyash/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
@@ -430,6 +432,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/cyber-shreyash/dsa/tree/master/1386-cinema-seat-allocation) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/cyber-shreyash/dsa/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cyber-shreyash/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
