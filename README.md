@@ -41,6 +41,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/cyber-shreyash/dsa/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0856-score-of-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0856-score-of-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/cyber-shreyash/dsa/tree/master/0940-distinct-subsequences-ii) |
+| [1021-remove-outermost-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1092-shortest-common-supersequence](https://github.com/cyber-shreyash/dsa/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/1143-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/cyber-shreyash/dsa/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -108,6 +109,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0402-remove-k-digits](https://github.com/cyber-shreyash/dsa/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/cyber-shreyash/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/cyber-shreyash/dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
@@ -681,6 +683,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0022-generate-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/0856-score-of-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/cyber-shreyash/dsa/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Lifting
 |  |
