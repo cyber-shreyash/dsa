@@ -303,6 +303,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0096-unique-binary-search-trees](https://github.com/cyber-shreyash/dsa/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/cyber-shreyash/dsa/tree/master/0223-rectangle-area) |
+| [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
 | [0390-elimination-game](https://github.com/cyber-shreyash/dsa/tree/master/0390-elimination-game) |
 | [0398-random-pick-index](https://github.com/cyber-shreyash/dsa/tree/master/0398-random-pick-index) |
 | [0423-reconstruct-original-digits-from-english](https://github.com/cyber-shreyash/dsa/tree/master/0423-reconstruct-original-digits-from-english) |
@@ -513,6 +514,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
@@ -531,6 +533,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0112-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -779,4 +782,20 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/cyber-shreyash/dsa/tree/master/2396-strictly-palindromic-number) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
