@@ -119,6 +119,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cyber-shreyash/dsa/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/cyber-shreyash/dsa/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cyber-shreyash/dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/cyber-shreyash/dsa/tree/master/0039-combination-sum) |
@@ -220,6 +221,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cyber-shreyash/dsa/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/cyber-shreyash/dsa/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/cyber-shreyash/dsa/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/cyber-shreyash/dsa/tree/master/0049-group-anagrams) |
