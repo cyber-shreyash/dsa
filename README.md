@@ -188,6 +188,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/cyber-shreyash/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/cyber-shreyash/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/cyber-shreyash/dsa/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cyber-shreyash/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cyber-shreyash/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -601,6 +602,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/cyber-shreyash/dsa/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/cyber-shreyash/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/cyber-shreyash/dsa/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/cyber-shreyash/dsa/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/cyber-shreyash/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
