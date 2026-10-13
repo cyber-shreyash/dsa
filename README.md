@@ -66,6 +66,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3163-string-compression-iii](https://github.com/cyber-shreyash/dsa/tree/master/3163-string-compression-iii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/cyber-shreyash/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/cyber-shreyash/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3675-minimum-operations-to-transform-string](https://github.com/cyber-shreyash/dsa/tree/master/3675-minimum-operations-to-transform-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -413,6 +414,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cyber-shreyash/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3675-minimum-operations-to-transform-string](https://github.com/cyber-shreyash/dsa/tree/master/3675-minimum-operations-to-transform-string) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/cyber-shreyash/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
