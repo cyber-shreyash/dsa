@@ -340,6 +340,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/cyber-shreyash/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/cyber-shreyash/dsa/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/cyber-shreyash/dsa/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/cyber-shreyash/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/cyber-shreyash/dsa/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3870-count-commas-in-range](https://github.com/cyber-shreyash/dsa/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/cyber-shreyash/dsa/tree/master/3871-count-commas-in-range-ii) |
@@ -415,6 +416,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cyber-shreyash/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
 | [3675-minimum-operations-to-transform-string](https://github.com/cyber-shreyash/dsa/tree/master/3675-minimum-operations-to-transform-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/cyber-shreyash/dsa/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/cyber-shreyash/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Sorting
 |  |
