@@ -183,6 +183,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1979-find-greatest-common-divisor-of-array](https://github.com/cyber-shreyash/dsa/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cyber-shreyash/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cyber-shreyash/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cyber-shreyash/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/cyber-shreyash/dsa/tree/master/2104-sum-of-subarray-ranges) |
 | [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
@@ -442,6 +443,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cyber-shreyash/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cyber-shreyash/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -603,6 +605,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1552-magnetic-force-between-two-balls](https://github.com/cyber-shreyash/dsa/tree/master/1552-magnetic-force-between-two-balls) |
 | [1760-minimum-limit-of-balls-in-a-bag](https://github.com/cyber-shreyash/dsa/tree/master/1760-minimum-limit-of-balls-in-a-bag) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/cyber-shreyash/dsa/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/cyber-shreyash/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/cyber-shreyash/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [3488-closest-equal-element-queries](https://github.com/cyber-shreyash/dsa/tree/master/3488-closest-equal-element-queries) |
