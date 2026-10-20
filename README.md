@@ -136,6 +136,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0140-word-break-ii](https://github.com/cyber-shreyash/dsa/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/cyber-shreyash/dsa/tree/master/0179-largest-number) |
 | [0198-house-robber](https://github.com/cyber-shreyash/dsa/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/cyber-shreyash/dsa/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/cyber-shreyash/dsa/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/cyber-shreyash/dsa/tree/master/0216-combination-sum-iii) |
@@ -525,6 +526,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0113-path-sum-ii](https://github.com/cyber-shreyash/dsa/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/cyber-shreyash/dsa/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/cyber-shreyash/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -546,6 +548,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/cyber-shreyash/dsa/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/cyber-shreyash/dsa/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
@@ -613,6 +616,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -734,6 +738,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0064-minimum-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0064-minimum-path-sum) |
+| [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
 ## Knapsack Problem
 |  |
 | ------- |
