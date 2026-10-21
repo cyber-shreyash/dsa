@@ -68,6 +68,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3499-maximize-active-section-with-trade-i](https://github.com/cyber-shreyash/dsa/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/cyber-shreyash/dsa/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3675-minimum-operations-to-transform-string](https://github.com/cyber-shreyash/dsa/tree/master/3675-minimum-operations-to-transform-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/cyber-shreyash/dsa/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
