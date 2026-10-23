@@ -216,6 +216,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/cyber-shreyash/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/cyber-shreyash/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cyber-shreyash/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cyber-shreyash/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -465,6 +466,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cyber-shreyash/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/cyber-shreyash/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cyber-shreyash/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Sliding Window
