@@ -195,6 +195,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/cyber-shreyash/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/cyber-shreyash/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/cyber-shreyash/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cyber-shreyash/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -483,6 +484,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/cyber-shreyash/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/cyber-shreyash/dsa/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/cyber-shreyash/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/cyber-shreyash/dsa/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cyber-shreyash/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -768,10 +770,12 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/cyber-shreyash/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
+| [2444-count-subarrays-with-fixed-bounds](https://github.com/cyber-shreyash/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
