@@ -543,6 +543,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/cyber-shreyash/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -562,6 +563,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/cyber-shreyash/dsa/tree/master/0994-rotting-oranges) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -626,10 +628,12 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
+| [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Enumeration
 |  |
@@ -835,4 +839,12 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cyber-shreyash/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
