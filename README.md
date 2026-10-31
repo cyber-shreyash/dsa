@@ -198,6 +198,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/cyber-shreyash/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2680-maximum-or](https://github.com/cyber-shreyash/dsa/tree/master/2680-maximum-or) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/cyber-shreyash/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cyber-shreyash/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/cyber-shreyash/dsa/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -305,6 +306,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0525-contiguous-array](https://github.com/cyber-shreyash/dsa/tree/master/0525-contiguous-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/cyber-shreyash/dsa/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/cyber-shreyash/dsa/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2680-maximum-or](https://github.com/cyber-shreyash/dsa/tree/master/2680-maximum-or) |
 | [3179-find-the-n-th-value-after-k-seconds](https://github.com/cyber-shreyash/dsa/tree/master/3179-find-the-n-th-value-after-k-seconds) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/cyber-shreyash/dsa/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3903-smallest-stable-index-i](https://github.com/cyber-shreyash/dsa/tree/master/3903-smallest-stable-index-i) |
@@ -423,6 +425,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cyber-shreyash/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/cyber-shreyash/dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2680-maximum-or](https://github.com/cyber-shreyash/dsa/tree/master/2680-maximum-or) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/cyber-shreyash/dsa/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
@@ -467,6 +470,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [1386-cinema-seat-allocation](https://github.com/cyber-shreyash/dsa/tree/master/1386-cinema-seat-allocation) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/cyber-shreyash/dsa/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [2680-maximum-or](https://github.com/cyber-shreyash/dsa/tree/master/2680-maximum-or) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/cyber-shreyash/dsa/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/cyber-shreyash/dsa/tree/master/3514-number-of-unique-xor-triplets-ii) |
