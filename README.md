@@ -198,6 +198,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/cyber-shreyash/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/cyber-shreyash/dsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2680-maximum-or](https://github.com/cyber-shreyash/dsa/tree/master/2680-maximum-or) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/cyber-shreyash/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cyber-shreyash/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -258,6 +259,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/cyber-shreyash/dsa/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2034-stock-price-fluctuation](https://github.com/cyber-shreyash/dsa/tree/master/2034-stock-price-fluctuation) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/cyber-shreyash/dsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cyber-shreyash/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cyber-shreyash/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cyber-shreyash/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -455,6 +457,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/cyber-shreyash/dsa/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cyber-shreyash/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/cyber-shreyash/dsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2785-sort-vowels-in-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2785-sort-vowels-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cyber-shreyash/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -666,6 +669,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/cyber-shreyash/dsa/tree/master/2396-strictly-palindromic-number) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/cyber-shreyash/dsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 ## Counting Sort
 |  |
 | ------- |
