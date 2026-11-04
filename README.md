@@ -206,6 +206,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/cyber-shreyash/dsa/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/cyber-shreyash/dsa/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/cyber-shreyash/dsa/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/cyber-shreyash/dsa/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cyber-shreyash/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/2997-minimum-number-of-operations-to-make-array-xor-equal-to-k) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
@@ -350,6 +351,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2409-count-days-spent-together](https://github.com/cyber-shreyash/dsa/tree/master/2409-count-days-spent-together) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/cyber-shreyash/dsa/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/cyber-shreyash/dsa/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/cyber-shreyash/dsa/tree/master/3021-alice-and-bob-playing-flower-game) |
 | [3099-harshad-number](https://github.com/cyber-shreyash/dsa/tree/master/3099-harshad-number) |
@@ -437,6 +439,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2680-maximum-or](https://github.com/cyber-shreyash/dsa/tree/master/2680-maximum-or) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/cyber-shreyash/dsa/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/cyber-shreyash/dsa/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3002-maximum-size-of-a-set-after-removals](https://github.com/cyber-shreyash/dsa/tree/master/3002-maximum-size-of-a-set-after-removals) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/cyber-shreyash/dsa/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cyber-shreyash/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -469,6 +472,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/cyber-shreyash/dsa/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2785-sort-vowels-in-a-string) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/cyber-shreyash/dsa/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/cyber-shreyash/dsa/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/cyber-shreyash/dsa/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/cyber-shreyash/dsa/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
@@ -639,6 +643,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2089-find-target-indices-after-sorting-array](https://github.com/cyber-shreyash/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/cyber-shreyash/dsa/tree/master/2187-minimum-time-to-complete-trips) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/cyber-shreyash/dsa/tree/master/2226-maximum-candies-allocated-to-k-children) |
+| [2967-minimum-cost-to-make-array-equalindromic](https://github.com/cyber-shreyash/dsa/tree/master/2967-minimum-cost-to-make-array-equalindromic) |
 | [3488-closest-equal-element-queries](https://github.com/cyber-shreyash/dsa/tree/master/3488-closest-equal-element-queries) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Union-Find
