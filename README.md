@@ -413,6 +413,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/cyber-shreyash/dsa/tree/master/0239-sliding-window-maximum) |
 | [0658-find-k-closest-elements](https://github.com/cyber-shreyash/dsa/tree/master/0658-find-k-closest-elements) |
+| [0743-network-delay-time](https://github.com/cyber-shreyash/dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cyber-shreyash/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/cyber-shreyash/dsa/tree/master/1642-furthest-building-you-can-reach) |
@@ -568,6 +569,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/cyber-shreyash/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cyber-shreyash/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
@@ -589,6 +591,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0365-water-and-jug-problem](https://github.com/cyber-shreyash/dsa/tree/master/0365-water-and-jug-problem) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/cyber-shreyash/dsa/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0662-maximum-width-of-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/0662-maximum-width-of-binary-tree) |
+| [0743-network-delay-time](https://github.com/cyber-shreyash/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cyber-shreyash/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/cyber-shreyash/dsa/tree/master/0994-rotting-oranges) |
@@ -662,6 +665,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/cyber-shreyash/dsa/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cyber-shreyash/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -884,5 +888,10 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/cyber-shreyash/dsa/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cyber-shreyash/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/cyber-shreyash/dsa/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
