@@ -168,6 +168,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/cyber-shreyash/dsa/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1029-two-city-scheduling](https://github.com/cyber-shreyash/dsa/tree/master/1029-two-city-scheduling) |
 | [1035-uncrossed-lines](https://github.com/cyber-shreyash/dsa/tree/master/1035-uncrossed-lines) |
+| [1267-count-servers-that-communicate](https://github.com/cyber-shreyash/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/cyber-shreyash/dsa/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/cyber-shreyash/dsa/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/1331-rank-transform-of-an-array) |
@@ -302,6 +303,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0299-bulls-and-cows](https://github.com/cyber-shreyash/dsa/tree/master/0299-bulls-and-cows) |
+| [1267-count-servers-that-communicate](https://github.com/cyber-shreyash/dsa/tree/master/1267-count-servers-that-communicate) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/cyber-shreyash/dsa/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1657-determine-if-two-strings-are-close](https://github.com/cyber-shreyash/dsa/tree/master/1657-determine-if-two-strings-are-close) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/cyber-shreyash/dsa/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -573,6 +575,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cyber-shreyash/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/cyber-shreyash/dsa/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1267-count-servers-that-communicate](https://github.com/cyber-shreyash/dsa/tree/master/1267-count-servers-that-communicate) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/cyber-shreyash/dsa/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
 |  |
@@ -595,6 +598,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/cyber-shreyash/dsa/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0994-rotting-oranges](https://github.com/cyber-shreyash/dsa/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/cyber-shreyash/dsa/tree/master/1267-count-servers-that-communicate) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -661,6 +665,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | ------- |
 | [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/cyber-shreyash/dsa/tree/master/0785-is-graph-bipartite) |
+| [1267-count-servers-that-communicate](https://github.com/cyber-shreyash/dsa/tree/master/1267-count-servers-that-communicate) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/cyber-shreyash/dsa/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
@@ -790,6 +795,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0064-minimum-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/cyber-shreyash/dsa/tree/master/0994-rotting-oranges) |
+| [1267-count-servers-that-communicate](https://github.com/cyber-shreyash/dsa/tree/master/1267-count-servers-that-communicate) |
 | [2679-sum-in-a-matrix](https://github.com/cyber-shreyash/dsa/tree/master/2679-sum-in-a-matrix) |
 ## Knapsack Problem
 |  |
