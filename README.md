@@ -107,6 +107,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/cyber-shreyash/dsa/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1987-number-of-unique-good-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/1987-number-of-unique-good-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
+| [3693-climbing-stairs-ii](https://github.com/cyber-shreyash/dsa/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
 | ------- |
@@ -229,6 +230,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/cyber-shreyash/dsa/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/cyber-shreyash/dsa/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/cyber-shreyash/dsa/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3693-climbing-stairs-ii](https://github.com/cyber-shreyash/dsa/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/cyber-shreyash/dsa/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/cyber-shreyash/dsa/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/cyber-shreyash/dsa/tree/master/3727-maximum-alternating-sum-of-squares) |
