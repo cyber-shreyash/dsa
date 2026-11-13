@@ -134,6 +134,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0047-permutations-ii](https://github.com/cyber-shreyash/dsa/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/cyber-shreyash/dsa/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/cyber-shreyash/dsa/tree/master/0055-jump-game) |
+| [0059-spiral-matrix-ii](https://github.com/cyber-shreyash/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/cyber-shreyash/dsa/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/cyber-shreyash/dsa/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -383,6 +384,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/cyber-shreyash/dsa/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/cyber-shreyash/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
@@ -797,6 +799,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/cyber-shreyash/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/cyber-shreyash/dsa/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/cyber-shreyash/dsa/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/cyber-shreyash/dsa/tree/master/0994-rotting-oranges) |
