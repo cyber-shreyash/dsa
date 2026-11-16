@@ -58,6 +58,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1987-number-of-unique-good-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/1987-number-of-unique-good-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/cyber-shreyash/dsa/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2785-sort-vowels-in-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2785-sort-vowels-in-a-string) |
@@ -389,6 +390,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [0059-spiral-matrix-ii](https://github.com/cyber-shreyash/dsa/tree/master/0059-spiral-matrix-ii) |
 | [0735-asteroid-collision](https://github.com/cyber-shreyash/dsa/tree/master/0735-asteroid-collision) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/cyber-shreyash/dsa/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2293-min-max-game](https://github.com/cyber-shreyash/dsa/tree/master/2293-min-max-game) |
 | [2679-sum-in-a-matrix](https://github.com/cyber-shreyash/dsa/tree/master/2679-sum-in-a-matrix) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/cyber-shreyash/dsa/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
