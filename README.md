@@ -207,6 +207,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/cyber-shreyash/dsa/tree/master/2444-count-subarrays-with-fixed-bounds) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/cyber-shreyash/dsa/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/cyber-shreyash/dsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cyber-shreyash/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2679-sum-in-a-matrix](https://github.com/cyber-shreyash/dsa/tree/master/2679-sum-in-a-matrix) |
 | [2680-maximum-or](https://github.com/cyber-shreyash/dsa/tree/master/2680-maximum-or) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/cyber-shreyash/dsa/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -453,6 +454,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/cyber-shreyash/dsa/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/cyber-shreyash/dsa/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cyber-shreyash/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2680-maximum-or](https://github.com/cyber-shreyash/dsa/tree/master/2680-maximum-or) |
 | [2834-find-the-minimum-possible-sum-of-a-beautiful-array](https://github.com/cyber-shreyash/dsa/tree/master/2834-find-the-minimum-possible-sum-of-a-beautiful-array) |
 | [2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/cyber-shreyash/dsa/tree/master/2918-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -488,6 +490,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/cyber-shreyash/dsa/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/cyber-shreyash/dsa/tree/master/2491-divide-players-into-teams-of-equal-skill) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/cyber-shreyash/dsa/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/cyber-shreyash/dsa/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2679-sum-in-a-matrix](https://github.com/cyber-shreyash/dsa/tree/master/2679-sum-in-a-matrix) |
 | [2785-sort-vowels-in-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2785-sort-vowels-in-a-string) |
