@@ -58,6 +58,7 @@ hi in this repo i'll be uploading my solutions to various dsa problems !!!
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/cyber-shreyash/dsa/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1987-number-of-unique-good-subsequences](https://github.com/cyber-shreyash/dsa/tree/master/1987-number-of-unique-good-subsequences) |
 | [2063-vowels-of-all-substrings](https://github.com/cyber-shreyash/dsa/tree/master/2063-vowels-of-all-substrings) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/cyber-shreyash/dsa/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/cyber-shreyash/dsa/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/cyber-shreyash/dsa/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/cyber-shreyash/dsa/tree/master/2486-append-characters-to-string-to-make-subsequence) |
